@@ -4,7 +4,7 @@ This repo contains the code for the main analysis of the following paper
 
 > Zhao J, Rostgaard K, Lauwers E, et al. Intracerebral Hemorrhage Among Blood Donors and Their Transfusion Recipients. JAMA. 2023;330(10):941–950. doi:10.1001/jama.2023.14445
 >
-The following analytical dataset is needed to run the code
+The following analytical dataset named _STUDYBASE_ is needed to run the code
 
 
 | Variable      | Description                                                | Type                                                                                                             | Origin/Source/Method/Comment                                                                                                                                                                 |
